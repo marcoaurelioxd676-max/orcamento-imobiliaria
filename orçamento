@@ -1,0 +1,5 @@
+# Resultado
+print("\n===== ORÇAMENTO =====")
+print(f"Valor do aluguel: R$ {valor:.2f}")
+print(f"Valor do contrato: R$ {valor_contrato:.2f}")
+print(f"Contrato parcelado em 5x de R$ {parcelas:.2f}")
